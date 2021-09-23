@@ -1,12 +1,4 @@
-#####################################################################################################################
-#   CS 6375 - Project, Recurrent Neural Networks for Machine Translation
-#   Assignment performed by
-#   Ameya Kulkarni  (ANK190006)
-#   Greeshma Naredla (GXN190005)
-#   PhaniMadhuri Nimmala(PXN190023)
-#   Yamini Thota    (YRT190003)
-#
-#####################################################################################################################
+################################################################################
 import numpy as np
 import pandas as pd
 import re
